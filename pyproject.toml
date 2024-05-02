@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.11"
 pandera = "^0.18.0"
 pandas = "^2.2.1"
-fastparquet = "^0.7.1" 
+fastparquet = "^2024.2.0"
 
 
 
